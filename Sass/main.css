@@ -1,0 +1,28 @@
+* {
+  box-sizing: border-box;
+}
+
+body header {
+  float: left;
+  width: 50%;
+}
+body header #contac {
+  background-color: blueviolet;
+  padding: 1rem;
+  float: right;
+}
+body header a {
+  text-decoration: none;
+}
+body main {
+  float: left;
+  width: 50%;
+}
+body figure {
+  float: right;
+  width: 50%;
+  margin: none;
+}
+body footer {
+  clear: both;
+}/*# sourceMappingURL=main.css.map */
